@@ -1,0 +1,51 @@
+Access on the Assessment of Nutritional Status
+
+Introduction:
+		The system
+	
+	
+Nutritional Status:
+	- Normal 
+	- Overweight
+	- Underweight
+	- Severely Underweight
+
+Type of Children: 
+					- Non- Pantawid
+					- Pantawid
+				
+						- children
+						- children with disability
+						- children with ethnicity
+						- children with disability and ethnicity
+
+						
+Features:
+1. Let the users to login   
+2. Let the users to enter data from Barangay-based to Municipality-Based
+3. 
+4. Displays:
+	-- Provinces of the region
+	-- Municipalities of the chosen Province
+	-- Barangays under the municipality
+
+	Functions under:
+		Municipality
+			- total number of children according to:
+				- children with disability
+				- children with ethnicity
+				- children with disability and ethnicity
+				- gender
+			- total number of barangays
+			- number of children under each barangays
+			- assessment of the nutritional status (Normal/Overweight/ Severely Underweight/ Underweight/) 
+				according to :
+					- Non- Pantawid
+					- Pantawid
+				
+						- children
+						- children with disability
+						- children with ethnicity
+						- children with disability and ethnicity
+				
+			
